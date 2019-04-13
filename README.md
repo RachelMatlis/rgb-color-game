@@ -3,4 +3,4 @@
 
 <p>'Color Game' is a game I made using vanilla JavaScript, HTML, and CSS. The user has to match RGB numbers with the correct colored square displayed below by clicking on it. Users can choose to play on easy mode, hard mode or super-hard mode.</p>
 
- <img src="https://ibb.co/ygjqfSZ">
+<a href="https://ibb.co/ygjqfSZ"><img src="https://i.ibb.co/ZcDxLmF/c1.png" alt="c1" border="0"></a>
