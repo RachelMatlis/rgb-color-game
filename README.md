@@ -1,2 +1,2 @@
 <h1>RGB COLOR GAME</h1>
-<p>Improve Your RGB Colors Skills While Playing the 'RGB-Color-Game'.</p>
+<h3>Improve Your RGB Colors Skills While Playing the 'RGB-Color-Game'.</h3>
