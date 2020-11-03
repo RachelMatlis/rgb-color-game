@@ -3,7 +3,6 @@
 
 <p>  
 The user has to match RGB numbers with the correct colored square displayed below by clicking on it. 
-Users can choose to play on easy mode, hard mode or super-hard mode.
   
  I made the game by using vanilla JavaScript, HTML, and CSS.
 </p>
